@@ -8,7 +8,8 @@ Continuation of Transparent Command Pods by (first by nli2work), now continued b
 ## Transparent Command Pod by nil2work v1.2.3 for KSP v1.7.x
 ### Adds eight (8) parts to Kerbal Space Program
 
-![Transparent Pods Repressurized](https://youtu.be/CB3N8tRPcRA "Transparent Pods Repressurized")
+![Transparent Pods Repressurized](https://youtu.be/CB3N8tRPcRA "Transparent Pods Repressurized") 
+
 *See ChangeLog.txt for details of mod changes* 
 
 Extract to your KSP folder.
@@ -19,7 +20,7 @@ Extract to your KSP folder.
 ### Recommends: 
 #### *Orbital Tug experience benefits from having these installed* 
  * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-module-manager-2618-january-17th-with-even-more-sha-and-less-bug/) 
- * JSI RPM 0.18.3 Required; be sure to use v0.9 compatible DLLs provided by MOARdV++
+ * JSI RPM 0.18.3 Required; be sure to use latest compatible DLLs provided by MOARdV++
  * ![RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-16x-rasterpropmonitor-development-stopped-v0306-29-december-2018/)
  * ![JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-17x-jsi-advanced-transparent-pods-/) 
 
