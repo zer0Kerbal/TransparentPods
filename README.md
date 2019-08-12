@@ -1,13 +1,14 @@
-# TransparentPods
+# Transparent Pods Repressurized
 #### Formerly known as Transparent Command Pods
-![TransparentPods](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
-![TransparentPods](https://img.shields.io/badge/MOD%20version-1.2.3.0-orange.svg?style=flat-square)
+![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
+![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-1.2.3.0-orange.svg?style=flat-square)
 
-Continuation of Transparent Pods by (first by nli2work), now continued by *zer0Kerbal* with community support.
+Continuation of Transparent Command Pods by (first by nli2work), now continued by *zer0Kerbal* with community support.
 
 ## Transparent Command Pod by nil2work v1.2.3 for KSP v1.7.x
 ### Adds eight (8) parts to Kerbal Space Program
 
+![Transparent Pods Repressurized](https://youtu.be/CB3N8tRPcRA "Transparent Pods Repressurized")
 *See ChangeLog.txt for details of mod changes* 
 
 Extract to your KSP folder.
