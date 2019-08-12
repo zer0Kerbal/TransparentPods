@@ -1,0 +1,20 @@
+
+
+
+
+
+	          HECATONCHARIES OS
+			             WELCOME
+               
+
+              
+          
+
+              Powered By
+           Junk Systems Inc.
+	               [hw]RPM v{0} $&$ RPMVERSION
+
+     
+             
+             
+[hw]    STBY  |  FLT  |   TGT  |  DTA  |       |  PREV  |  NEXT  |  ENTR  |  CNCL

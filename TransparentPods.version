@@ -1,0 +1,20 @@
+{
+  "NAME": "TransparentPods",
+  "URL": "https://forum.kerbalspaceprogram.com/index.php?/topic/75897-v090v25transparent-pods-v122-for-ksp-v090/",
+  "DOWNLOAD": "https://github.com/zer0Kerbal/TransparentPods/releases",
+  "GITHUB": {
+    "USERNAME": "zer0Kerbal",
+    "REPOSITORY": "TransparentPods"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 2,
+    "PATCH": 3,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 6,
+    "PATCH": 1
+  }
+}
