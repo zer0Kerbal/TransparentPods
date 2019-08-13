@@ -20,8 +20,9 @@ Extract to your KSP folder.
 ### Recommends: 
 #### *Orbital Tug experience benefits from having these installed* 
  * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-module-manager-2618-january-17th-with-even-more-sha-and-less-bug/) 
- * JSI RPM 0.18.3 Required; be sure to use latest compatible DLLs provided by MOARdV++
+ * JSI RPM 0.1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++
  * ![RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-16x-rasterpropmonitor-development-stopped-v0306-29-december-2018/)
+ * ![MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-wip-17x-moardvs-avionics-systems-mas-interactive-iva-v101-27-july-2019/)
  * ![JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-17x-jsi-advanced-transparent-pods-/) 
 
 ### Suggests: 
