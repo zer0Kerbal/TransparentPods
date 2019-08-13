@@ -1,7 +1,7 @@
 # Transparent Pods Repressurized
 #### Formerly known as Transparent Command Pods
 ![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
-![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-1.2.3.0-orange.svg?style=flat-square)
+![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-1.2.3.1-orange.svg?style=flat-square)
 
 Continuation of Transparent Command Pods by (first by nli2work), now continued by *zer0Kerbal* with community support.
 
@@ -20,8 +20,9 @@ Extract to your KSP folder.
 ### Recommends: 
 #### *Orbital Tug experience benefits from having these installed* 
  * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-module-manager-2618-january-17th-with-even-more-sha-and-less-bug/) 
- * JSI RPM 0.18.3 Required; be sure to use latest compatible DLLs provided by MOARdV++
+ * JSI RPM 0.1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++
  * ![RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-16x-rasterpropmonitor-development-stopped-v0306-29-december-2018/)
+ * ![MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-wip-17x-moardvs-avionics-systems-mas-interactive-iva-v101-27-july-2019/)
  * ![JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-17x-jsi-advanced-transparent-pods-/) 
 
 ### Suggests: 
@@ -39,7 +40,7 @@ Extract to your KSP folder.
 
 content licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-You may modify for personal use. You may redistribute content with attribution to original author nli2work, plus any other attribution where required. You must redistribute under identical license, CC-BY-NC-SA. 
+You may modify for personal use. You may redistribute content with attribution to original author nli2work, plus any other attribution where required. You must redistribute under identical license, CC BY-NC-SA 4.0. 
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
