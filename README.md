@@ -23,7 +23,7 @@ Extract to your KSP folder.
  * JSI RPM 0.1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++
  * ![RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-16x-rasterpropmonitor-development-stopped-v0306-29-december-2018/)
  * ![MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-wip-17x-moardvs-avionics-systems-mas-interactive-iva-v101-27-july-2019/)
- * ![JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-17x-jsi-advanced-transparent-pods-/) 
+ * ![JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-17x-jsi-advanced-transparent-pods-v01200-25th-jun-2019/) 
 
 ### Suggests: 
  * ![AllYAll](http://forum.kerbalspaceprogram.com/index.php?/topic/155858-ksp-122-all)
