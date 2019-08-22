@@ -18,7 +18,7 @@ Extract to your KSP folder.
  * Kerbal Space Program
  
 ### Recommends: 
-#### *Orbital Tug experience benefits from having these installed* 
+#### *Transparent Pods user experience benefits from having these installed* 
  * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-module-manager-2618-january-17th-with-even-more-sha-and-less-bug/) 
  * JSI RPM 0.1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++
  * ![RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-16x-rasterpropmonitor-development-stopped-v0306-29-december-2018/)
