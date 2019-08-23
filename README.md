@@ -2,6 +2,7 @@
 #### Formerly known as Transparent Command Pods
 ![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
 ![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-1.2.3.1-orange.svg?style=flat-square)
+![TransparentPodsRepressurized](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 
 Continuation of Transparent Command Pods by (first by nli2work), now continued by *zer0Kerbal* with community support.
 
