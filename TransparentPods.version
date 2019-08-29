@@ -1,7 +1,7 @@
 {
   "NAME": "TransparentPods",
-  "URL": "https://forum.kerbalspaceprogram.com/index.php?/topic/75897-v090v25transparent-pods-v122-for-ksp-v090/",
-  "DOWNLOAD": "https://github.com/zer0Kerbal/TransparentPods/releases",
+  "URL": "https://forum.kerbalspaceprogram.com/index.php?/topic/187495-ksp-173-transparent-command-pods-repressurized-v1231-23-aug-2019release/",
+  "DOWNLOAD": "https://github.com/zer0Kerbal/TransparentPods/releases/latest",
   "GITHUB": {
     "USERNAME": "zer0Kerbal",
     "REPOSITORY": "TransparentPods"
@@ -10,7 +10,7 @@
     "MAJOR": 1,
     "MINOR": 2,
     "PATCH": 3,
-    "BUILD": 0
+    "BUILD": 2
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
