@@ -13,7 +13,18 @@ Continuation of Transparent Command Pods by (first by nli2work), now continued b
 
 *See ChangeLog.txt for details of mod changes* 
 
-![Kottobos](https://www.youtube.com/watch?v=mUntbQHC4-g)
+![Kottobos](https://www.youtube.com/watch?v=mUntbQHC4-g) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mUntbQHC4-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://img.youtube.com/vi/mUntbQHC4-g/maxresdefault.jpg)](https://youtu.be/mUntbQHC4-g)
+
+[<img src="https://img.youtube.com/vi/mUntbQHC4-g/maxresdefault.jpg" width="50%">](https://youtu.be/mUntbQHC4-g)
+ 
+<div align="center">
+  <a href="https://youtu.be/mUntbQHC4-g"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
 Extract to your KSP folder.
 
 ### Requires: 
