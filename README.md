@@ -13,6 +13,7 @@ Continuation of Transparent Command Pods by (first by nli2work), now continued b
 
 *See ChangeLog.txt for details of mod changes* 
 
+![Kottobos](https://www.youtube.com/watch?v=mUntbQHC4-g)
 Extract to your KSP folder.
 
 ### Requires: 
