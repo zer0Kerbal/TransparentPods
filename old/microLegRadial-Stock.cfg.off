@@ -1,7 +1,7 @@
 PART
 {
 	// --- general parameters ---
-	name = Stock-microLegRadial
+	name = microLegRadial-Stock
 	module = Part
 	author = nli2work
 
@@ -138,6 +138,6 @@ PART
 		impactTolerance = 300
 		suspensionSpring = 10
 		suspensionDamper = 3
-		suspensionOffset = 0, 0 , 0
+		suspensionOffset = 0.0 // 0, 0 , 0
 	}
 }

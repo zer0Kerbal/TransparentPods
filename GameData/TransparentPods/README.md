@@ -1,44 +1,55 @@
+<!-- Readme.md v1.1.1.0
+Transparent Pods Repressurized (TCP)
+created: 11 Aug 18
+updated: 15 Oct 19 -->
+
+<!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 # Transparent Pods Repressurized
 #### Formerly known as Transparent Command Pods
-![TransparentPodsRepressurized](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
-![TransparentPodsRepressurized](https://img.shields.io/badge/MOD%20version-1.2.3.2-orange.svg?style=flat-square)
-![TransparentPodsRepressurized](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
+![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/TransparentPods?include_prereleases)
+![KSP 1.7.x](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
+![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![license CC 4.0 BY-NC-SA](https://img.shields.io/badge/license-CC--4.0--BY--SA-lightgrey)
 
 Continuation of Transparent Command Pods by (first by nli2work), now continued by *zer0Kerbal* with community support.
 
-## Transparent Command Pod by nil2work v1.2.3.2 for KSP v1.7.x
+## Transparent Command Pod by nil2work v1.2.3.3 for KSP v1.7.x
 ### Adds eight (8) parts to Kerbal Space Program
 
 ![Transparent Pods Repressurized](https://youtu.be/CB3N8tRPcRA "Transparent Pods Repressurized")
 
-*See ChangeLog.txt for details of mod changes*
+### Changelog Summary
+*See ![ChangeLog](https://github.com/zer0Kerbal/TransparentPods/Changelog.cfg) for full details of mod changes*
 
 [![Watch the video](https://img.youtube.com/vi/mUntbQHC4-g/maxresdefault.jpg)](https://youtu.be/mUntbQHC4-g)
 
 Extract to your KSP GameData folder.
 
 ### Requires:
- * Kerbal Space Program
+ * ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.3, ***may*** work on earlier versions
 
 ### Recommends:
 #### *Kerbal enjoyment of Transparent Pods benefits from having these installed*
- * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-module-manager-2618-january-17th-with-even-more-sha-and-less-bug)
+ * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
  * JSI RPM 1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++
- * ![RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-16x-rasterpropmonitor-development-stopped-v0306-29-december-2018)
- * ![MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-wip-17x-moardvs-avionics-systems-mas-interactive-iva-v101-27-july-2019)
- * ![JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-17x-jsi-advanced-transparent-pods-)
+ * ![RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*)
+ * ![MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*)
+ * ![JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*)
 
 ### Suggests:
- * ![AllYAll](http://forum.kerbalspaceprogram.com/index.php?/topic/155858-ksp-122-all)
+ * ![On Demand Fuel Cells (ODFC)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
+ * ![AllYAll](http://forum.kerbalspaceprogram.com/index.php?/topic/155858-*)
  * ![KURS style docking camera ](https://github.com/linuxgurugamer/DockingCam)
- * ![Orbital Utility Vehicle Updated](https://forum.kerbalspaceprogram.com/index.php?/topic/186920-173-orbital-utility-vehicle-aka-orbital-tug)
- * ![Kerbal Attachment System (KAS)](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-kerbal-attachment-system-kas)
- * ![Kerbal Inventory System (KIS)](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-kerbal-inventory-system-kis)
+ * ![Orbital Utility Vehicle Updated](https://forum.kerbalspaceprogram.com/index.php?/topic/186920-*)
+ * ![Kerbal Attachment System (KAS)](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)
+ * ![Kerbal Inventory System (KIS)](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
  * ![InfernalRobotics-Next](https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*)
  * ![Kerbal Joint Reinforcement-Next (KJR)](https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*)
- * ![B9 Part Switch]("http://forum.kerbalspaceprogram.com/index.php?showtopic=140541")
+ * ![B9 Part Switch](https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*)
  * ![Kerbal ChangeLog](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
- * ![RetroFuture Modernized](https://forum.kerbalspaceprogram.com/index.php?/topic/184628-16117-retrofuture-modernized/&tab=comments#comment-3602263)
+ * ![RetroFuture Modernized](https://forum.kerbalspaceprogram.com/index.php?/topic/184628-*)
+
+ #### Tags
+  - mod, ksp, nli2work, zer0Kerbal, transparent, jsi, command, pod, leg, klaw, jplrepo
 
 ## License
 ![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
