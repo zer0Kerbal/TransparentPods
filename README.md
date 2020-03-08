@@ -76,8 +76,8 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
  + One of the stack nodes on Mono Pod will snap to, but not attach to other stack nodes, if the Mono Pod is not the root part.
  + Micro lander legs clip into ground if retract/deployed while landed. same appears to happen with the smallest stock lander leg.
 
-    Javascript is disabled. View full ![album](https://imgur.com/a/QjPLi) (previous incarnation)
+View full ![album](https://imgur.com/a/QjPLi) (previous incarnation)
 
 Be Kind: Lithobrake, not jakebrake! Beware - objects seen through these windows might actually be seen. Keep your Module Manager up to date.
-
+![Validate AVC .version files](https://github.com/zer0Kerbal/TransparentPods/workflows/Validate%20AVC%20.version%20files/badge.svg)
 Link to original thread ![here](https://forum.kerbalspaceprogram.com/index.php?/topic/75897-v090v25transparent-pods-v122-for-ksp-v090).
