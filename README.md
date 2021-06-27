@@ -25,31 +25,31 @@ Continuation of Transparent Command Pods by (first by nli2work), now continued b
 Extract to your KSP GameData folder.
 
 ### Requires:
- * ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.3, ***may*** work on earlier versions
+ [x]  ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.3, ***may*** work on earlier versions
 
 ### Recommends:
 #### *Kerbal enjoyment of Transparent Pods benefits from having these installed*
- * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
- * JSI RPM 1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++
- * ![RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*)
- * ![MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*)
- * ![JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*)
+ [x]  [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
+ [x] JSI RPM 1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++
+ [x]  [RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*)
+ [x]  [MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*)
+ [x]  [JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*)
 
 ### Suggests:
- * ![On Demand Fuel Cells (ODFC)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
- * ![AllYAll](http://forum.kerbalspaceprogram.com/index.php?/topic/155858-*)
- * ![KURS style docking camera ](https://github.com/linuxgurugamer/DockingCam)
- * ![Orbital Utility Vehicle Updated](https://forum.kerbalspaceprogram.com/index.php?/topic/186920-*)
- * ![Kerbal Attachment System (KAS)](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)
- * ![Kerbal Inventory System (KIS)](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
- * ![InfernalRobotics-Next](https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*)
- * ![Kerbal Joint Reinforcement-Next (KJR)](https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*)
- * ![B9 Part Switch](https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*)
- * ![Kerbal ChangeLog](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
- * ![RetroFuture Modernized](https://forum.kerbalspaceprogram.com/index.php?/topic/184628-*)
+ [x] ![On Demand Fuel Cells (ODFC)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
+ [x]  [AllYAll](http://forum.kerbalspaceprogram.com/index.php?/topic/155858-*)
+ [x]  [KURS style docking camera ](https://github.com/linuxgurugamer/DockingCam)
+ [x]  [Orbital Utility Vehicle Updated](https://forum.kerbalspaceprogram.com/index.php?/topic/186920-*)
+ [x]  [Kerbal Attachment System (KAS)](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)
+ [x]  [Kerbal Inventory System (KIS)](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
+ [x]  [InfernalRobotics-Next](https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*)
+ [x]  [Kerbal Joint Reinforcement-Next (KJR)](https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*)
+ [x]  [B9 Part Switch](https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*)
+ [x]  [Kerbal ChangeLog](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
+ [x]  [RetroFuture Modernized](https://forum.kerbalspaceprogram.com/index.php?/topic/184628-*)
 
  #### Tags
-  - mod, ksp, nli2work, zer0Kerbal, transparent, jsi, command, pod, leg, klaw, jplrepo
+  [x]  mod, ksp, nli2work, zer0Kerbal, transparent, jsi, command, pod, leg, klaw, jplrepo
 
 ## License
 ![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
@@ -80,4 +80,4 @@ View full ![album](https://imgur.com/a/QjPLi) (previous incarnation)
 
 Be Kind: Lithobrake, not jakebrake! Beware - objects seen through these windows might actually be seen. Keep your Module Manager up to date.
 ![Validate AVC .version files](https://github.com/zer0Kerbal/TransparentPods/workflows/Validate%20AVC%20.version%20files/badge.svg)
-Link to original thread ![here](https://forum.kerbalspaceprogram.com/index.php?/topic/75897-v090v25transparent-pods-v122-for-ksp-v090).
+Link to original thread ![here](https://forum.kerbalspaceprogram.com/index.php?/topic/75897-*).
