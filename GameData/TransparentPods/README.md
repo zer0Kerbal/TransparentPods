@@ -25,31 +25,31 @@ Continuation of Transparent Command Pods by (first by nli2work), now continued b
 Extract to your KSP GameData folder.
 
 ### Requires:
- [x]  ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.3, ***may*** work on earlier versions
-
-### Recommends:
-#### *Kerbal enjoyment of Transparent Pods benefits from having these installed*
- [x]  [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
- [x] JSI RPM 1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++
- [x]  [RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*)
- [x]  [MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*)
- [x]  [JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*)
-
-### Suggests:
- [x] ![On Demand Fuel Cells (ODFC)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
- [x]  [AllYAll](http://forum.kerbalspaceprogram.com/index.php?/topic/155858-*)
- [x]  [KURS style docking camera ](https://github.com/linuxgurugamer/DockingCam)
- [x]  [Orbital Utility Vehicle Updated](https://forum.kerbalspaceprogram.com/index.php?/topic/186920-*)
- [x]  [Kerbal Attachment System (KAS)](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)
- [x]  [Kerbal Inventory System (KIS)](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
- [x]  [InfernalRobotics-Next](https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*)
- [x]  [Kerbal Joint Reinforcement-Next (KJR)](https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*)
- [x]  [B9 Part Switch](https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*)
- [x]  [Kerbal ChangeLog](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
- [x]  [RetroFuture Modernized](https://forum.kerbalspaceprogram.com/index.php?/topic/184628-*)
-
+ [x]  [Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.3, ***may*** work on earlier versions  
+  
+### Recommends:  
+#### *Kerbal enjoyment of Transparent Pods benefits from having these installed*   
+ [x] [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)  
+  JSI RPM 1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++  
+ [x] [RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*)  
+ [x] [MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*)  
+ [x] [JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*)  
+  
+### Suggests:  
+ [x] [On Demand Fuel Cells (ODFC)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)  
+ [x] [AllYAll](http://forum.kerbalspaceprogram.com/index.php?/topic/155858-*)  
+ [x] [KURS style docking camera ](https://github.com/linuxgurugamer/DockingCam)  
+ [x] [Orbital Utility Vehicle Updated](https://forum.kerbalspaceprogram.com/index.php?/topic/186920-*)  
+ [x] [Kerbal Attachment System (KAS)](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)  
+ [x] [Kerbal Inventory System (KIS)](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)  
+ [x] [InfernalRobotics-Next](https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*)  
+ [x] [Kerbal Joint Reinforcement-Next (KJR)](https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*)  
+ [x] [B9 Part Switch](https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*)  
+ [x] [Kerbal ChangeLog](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)  
+ [x] [RetroFuture Modernized](https://forum.kerbalspaceprogram.com/index.php?/topic/184628-*)  
+  
  #### Tags
-  [x]  mod, ksp, nli2work, zer0Kerbal, transparent, jsi, command, pod, leg, klaw, jplrepo
+  [x]  mod, ksp, nli2work, zer0Kerbal, transparent, jsi, command, pod, leg, klaw, jplrepo  
 
 ## License
 ![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
