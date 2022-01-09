@@ -8,11 +8,11 @@ updated: 15 Oct 19 -->
 #### Formerly known as Transparent Command Pods
 ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/TransparentPods?include_prereleases)
 ![KSP 1.7.x](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
-![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![license CC 4.0 BY-NC-SA](https://img.shields.io/badge/license-CC--4.0--BY--SA-lightgrey)
+![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![license CC 4.0 BY-NC-SA](https://img.shields.io/badge/license-CC--4.0--BY--SA-lightgrey?logo=creativecommons)
 
 Continuation of Transparent Command Pods by (first by nli2work), now continued by *zer0Kerbal* with community support.
 
-## Transparent Command Pod by nil2work v1.2.3.3 for KSP v1.7.x
+## Transparent Command Pod by nli2work v1.2.3.3 for KSP v1.7.x
 ### Adds eight (8) parts to Kerbal Space Program
 
 ![Transparent Pods Repressurized](https://youtu.be/CB3N8tRPcRA "Transparent Pods Repressurized")
