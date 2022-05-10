@@ -3,7 +3,7 @@ Transparent Pods Repressurized (TCP)
 created: 11 Aug 18
 updated: 15 Oct 19 -->
 
-<!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
+<!-- Download on SpaceDock[2212] or Github or Curseforge [transparentpods]. Also available on CKAN. -->
 # Transparent Pods Repressurized
 #### Formerly known as Transparent Command Pods
 ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/TransparentPods?include_prereleases)
