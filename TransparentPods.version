@@ -1,36 +1,41 @@
 {
-	"NAME": "Transparent Pods (TPOD)",
-	"URL": "https://raw.githubusercontent.com/zer0Kerbal/TransparentPods//master/TransparentPods.version",
-	"DOWNLOAD": "https://github.com/zer0Kerbal/TransparentPods/releases/latest",
-    "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/Changelog.cfg",
-	"GITHUB": {
-		"USERNAME": "zer0Kerbal",
-		"REPOSITORY": "TransparentPods",
+	"NAME"		     : "Transparent Pods (TPOD)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/TransparentPods.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/TransparentPods/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/changelog.md",
+	"GITHUB" :
+    {
+		"USERNAME"          : "zer0Kerbal",
+		"REPOSITORY"        : "TransparentPods",
         "ALLOW_PRE_RELEASE" : false
 	},
-	"VERSION": {
+	"VERSION" :
+    {
 		"MAJOR" : 1,
 		"MINOR" : 2,
 		"PATCH" : 3,
 		"BUILD" : 3
 	},
-    "KSP_VERSION": {
+    "KSP_VERSION" :
+    {
         "MAJOR" : 1,
         "MINOR" : 6,
         "PATCH" : 1
     },
-    "KSP_VERSION_MIN": {
+    "KSP_VERSION_MIN" :
+    {
         "MAJOR" : 1,
         "MINOR" : 6,
         "PATCH" : 1
     },
-    "KSP_VERSION_MAX": {
+    "KSP_VERSION_MAX":
+    {
         "MAJOR" : 1,
         "MINOR" : 12,
         "PATCH" : 9999
     },
     "INSTALL_LOC": {
-        "NAME" : "TransparentPods",
+        "NAME"      : "TransparentPods",
         "DIRECTORY" : "TransparentPods"
     }
 }
