@@ -5,3 +5,4 @@
 
 ## Documents
 - [ManualInstallation](ManualInstallation.md)
+- [changelog](changelog.md)
