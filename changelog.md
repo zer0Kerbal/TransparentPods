@@ -22,6 +22,11 @@
   * //#autoLOC_500863 = a.r.m arm asteroid capture cla* ect dock fasten grab join klaw nasa
 * [scale] = 1
 
+* [JSIAdvTransparentPods.cfg]
+  * moved from part.cfg's
+* [RasterPropMonitor.cfg]
+  * moved from part.cfg's
+
 ### Updated
 
 * [crashTolerance]
