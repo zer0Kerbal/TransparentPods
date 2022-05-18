@@ -7,13 +7,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-Transparent Pods (TPOD)
+Transparent Pods (PODS)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Transparent Pods(TPOD)
+# Transparent Pods(PODS)
 
 [Home](./index.md)
 
