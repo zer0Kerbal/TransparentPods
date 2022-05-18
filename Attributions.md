@@ -8,14 +8,14 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.6.0
-Transparent Pods (TPOD)
+Transparent Pods (PODS)
 created: 01 Feb 2022
 updated: 02 May 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
-# Transparent Pods (TPOD)
+# Transparent Pods (PODS)
 [Home](./index.md)
 
 ## Attribution
@@ -23,7 +23,7 @@ updated: 02 May 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/" alt="Transparent Pods (TPOD)"> Transparent Pods (TPOD)</a> parts addon!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/" alt="Transparent Pods (PODS)"> Transparent Pods (PODS)</a> parts addon!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
