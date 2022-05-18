@@ -19,6 +19,7 @@ By [`zer0Kerbal`][zer0Kerbal], originally by [nli2work][nli2work]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/img/HeroLogo_1920x1920.png" alt="TransparentPods Hero" width="72%" height="72%">
 ---
 
 ### See More
