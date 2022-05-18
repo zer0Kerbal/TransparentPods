@@ -20,7 +20,15 @@ By [`zer0Kerbal`][zer0Kerbal], originally by [nli2work][nli2work]
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/img/HeroLogo_1920x1920.png" alt="TransparentPods Hero" width="72%" height="72%">
----
+
+### Parts
+
+* 2.5m **Panopticon** Command Pod
+* 1.25m **Cyclops** Command Pod
+* 0.625m **Mono** Pressurized Command Chair
+* ~0.2m Micro Lander Leg; radial and ventral mount configurations
+* ~0.3m **Micro Klaw** Micro Advanced Grabber Unit.
+* Handrail and Handrail, short
 
 ### See More
 
@@ -38,15 +46,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 [![KSP Mods - Transparent Command Pods Repressurized](https://img.youtube.com/vi/mUntbQHC4-g/0.jpg)](https://www.youtube.com/watch?v=mUntbQHC4-g)
 
 [![Transparent Pods](https://img.youtube.com/vi/CB3N8tRPcRA/0.jpg)](https://www.youtube.com/watch?v=CB3N8tRPcRA)
-
-### Parts
-
-* 2.5m **Panopticon** Command Pod
-* 1.25m **Cyclops** Command Pod
-* 0.625m **Mono** Pressurized Command Chair
-* ~0.2m Micro Lander Leg; radial and ventral mount configurations
-* ~0.3m **Micro Klaw** Micro Advanced Grabber Unit.
-* Handrail and Handrail, short
 
 ### Cabin Notes
 
