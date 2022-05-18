@@ -36,6 +36,35 @@
 
 ### Removed
 
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
+
+### docs/
+
+* Update
+  * [Attribution.md] v1.0.6.0
+  * [ManualInstallation.md] v1.1.7.0
+* Add
+  * [404-petunia.md]
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.1.3.1
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [PartInvoice.md] v1.1.3.1
+  * [_config.yml]
 
 * Status
 * #4 - Fix version file URL property - contributed by HebaruSan
