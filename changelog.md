@@ -51,6 +51,7 @@
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts/
+* updates #33 - Asset Updates
 
 ### docs/
 
