@@ -1,24 +1,34 @@
-<!-- readme.md v1.6.7.1
-Transparent Pods (TPOD)
+<!-- readme.md v1.6.8.0
+Transparent Pods (PODS)
 created: 17 Jul 2017
-updated: 09 May 2022 -->
+updated: 17 May 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![TransparentPods][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Transparent Pods][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
 
-# Transparent Pods (TPOD)
+# Transparent Pods (PODS)
 
-*Formerly known as Transparent Command Pods*
 Adds eight (8) parts to Kerbal Space Program
 
-## Continuation of Transparent Command Pods ## By [`zer0Kerbal`][zer0Kerbal], originally by [nli2work][nli2work]
+By [`zer0Kerbal`][zer0Kerbal], originally by [nli2work][nli2work]
 
----
+adopted with *express* permission and brought to you by *KerbSimpleCo*
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/img/HeroLogo_1920x1920.png" alt="TransparentPods Hero" width="72%" height="72%">
+
+### Parts
+
+* 2.5m **Panopticon** Command Pod
+* 1.25m **Cyclops** Command Pod
+* 0.625m **Mono** Pressurized Command Chair
+* ~0.2m Micro Lander Leg; radial and ventral mount configurations
+* ~0.3m **Micro Klaw** Micro Advanced Grabber Unit.
+* Handrail and Handrail, short
 
 ### See More
 
@@ -35,17 +45,7 @@ Adds eight (8) parts to Kerbal Space Program
 
 [![KSP Mods - Transparent Command Pods Repressurized](https://img.youtube.com/vi/mUntbQHC4-g/0.jpg)](https://www.youtube.com/watch?v=mUntbQHC4-g)
 
-[![Transparent command pods](https://img.youtube.com/vi/CB3N8tRPcRA/0.jpg)](https://www.youtube.com/watch?v=CB3N8tRPcRA)
-
-### Parts
-
-* 2.5m **Panopticon** Command Pod
-* 1.25m **Cyclops** Command Pod
-* 0.625m **Mono** Pressurized Command Chair
-* ~0.2m Micro Lander Leg; radial and ventral mount configurations
-* ~0.3m **Micro Klaw** Micro Advanced Grabber Unit.
-* Handrail
-* Handrail, short
+[![Transparent Pods](https://img.youtube.com/vi/CB3N8tRPcRA/0.jpg)](https://www.youtube.com/watch?v=CB3N8tRPcRA)
 
 ### Cabin Notes
 
@@ -55,11 +55,11 @@ Adds eight (8) parts to Kerbal Space Program
 * One of the stack nodes on Mono Pod will snap to, but not attach to other stack nodes, if the Mono Pod is not the root part.
 * Micro lander legs clip into ground if retract/deployed while landed. same appears to happen with the smallest stock lander leg.
 
-View full ![album](https://imgur.com/a/QjPLi) (previous incarnation)
+View full [album](https://imgur.com/a/QjPLi) (previous incarnation)
 
 ### Help Wanted
 
-> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
+> * Would love someone to convert landing legs to Stock and/or KSPWheel  
 > * Variant Textures and code to make it work always welcome!
 > * Model updates to Unity 2019
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
@@ -71,20 +71,20 @@ View full ![album](https://imgur.com/a/QjPLi) (previous incarnation)
 >* ![English][EN] English
 >* ***your translation here***
 >
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ---
 
-### Installation Directions
+### Installation Directions [^1]
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
+  CurseForge/OverWolf App (currently does not install dependencies)  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^1]
+or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies
 
@@ -92,48 +92,47 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 ### Supports
 
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * Either
   * [Module Manager][mm] [^3]
   * [Module Manager /L][mm]l [^3]
-
-* [On Demand Fuel Cells (ODFC)][ODFC]
 * [TweakScale][twk]
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [Firespitter][fs] for fully functioning landing legs. may invoke bouts of dizziness.
+* [B9 Part Switch][b9ps]
 
 ### Recommends
 
-#### *Kerbal enjoyment of Transparent Pods benefits from having these installed*
+*Kerbal enjoyment of Transparent Pods benefits from having these installed*
 
-* [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)  
+* [JSI Advanced Transparent Pods][atp]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * Either
-  * [RasterPropMonitor](https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*)  
-  * [MOARdV's Avionics System](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*)  
-  JSI RPM 1.20.0 Required; be sure to use latest compatible DLLs provided by MOARdV++  
-* [JSI Advanced Transparent Pods](https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*)  
+  * [MOARdV's Avionics System][mas]
+  * [Raster Prop Monitor][rpm]
   
 ### Suggests
 
-* [On Demand Fuel Cells (ODFC)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)  
-* [KURS style docking camera ](https://github.com/linuxgurugamer/DockingCam)  
-* [Kerbal Attachment System (KAS)](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)  
-* [Kerbal Inventory System (KIS)](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)  
-* [Kerbal Joint Reinforcement-Next (KJR)](https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*)  
-* [B9 Part Switch](https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*)  
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [KURS style docking camera (KURS)][kurs]
+* [Kerbal Attachment System (KAS)][kas]
+* [Kerbal Inventory System (KIS)][kis]
+* [Kerbal Joint Reinforcement-Next (KJR)][kjr]
   
 #### Tags
 
 * nli2work, transparent, jsi, command, pod, leg, klaw, jplrepo
 
----
-
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</p>  
-<a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
-  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
+  <p><b>red box below is a link to forum post on how to get support</b></p>
+  <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
+    <p><img src="https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>
+  <p style="color: #000000;">Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p>
+</div>
 
 ### Credits and Special Thanks
 
+* [`nli2work`][nli2work] for creating this glorious parts addon!
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -150,9 +149,17 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
+#### Original (1) - Author: [`nli2work`][nli2work]
+
+> Forum: [Thread][MOD:1:thread] - Download: [Dropbox][MOD:1:download] - Source: [Dropbox][MOD:1:source]  
+> License: [![License][LIC:1:shd]][LIC:1:url] ![License][LIC:1:log]
+>
+> License is CC-BY.
+> Credit me if you redistribute without modifications. Otherwise you don't have to credit me. No other restrictions in use, you can repackage, redistribute, modify, for commercial or non-commercial purposes. New CC-BY applies to TransparentPod and RF Mods, previously released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 #### Original (0) - Author: [`nli2work`][nli2work]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:download] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:download] - Source: [Mediafire][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 >
 > content licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
@@ -173,7 +180,6 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/ "Transparent Pods"
 [MOD:issue]: https://github.com/zer0Kerbal/TransparentPods/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/TransparentPods/blob/master/LICENSE "Github License"
-[MOD:local]: https://github.com/zer0Kerbal/TransparentPods/blob/master/GameData/TransparentPods/Localization/readme.md "Localization"
 [MOD:notic]: https://zer0kerbal.github.io/TransparentPods/Notices "GitHub Pages"
 [MOD:pages]: https://zer0kerbal.github.io/TransparentPods/ "GitHub Pages"
 
@@ -183,22 +189,26 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/TransparentPods5.rar?dl=0 "Dropbox"
-[MOD:0:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"  
-[MOD:0:download]: https://www.dropbox.com/s/85og3xdhark7com/TransparentPods5.rar?dl=0 "Dropbox"  
+[MOD:0:source]: https://www.dropbox.com/s/xupteqt9xy01cdo/CommandPods.zip?dl=0/ "Dropbox"
+[MOD:0:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/75897-*/ "KSP Forum"
+[MOD:0:download]: http://www.mediafire.com/download/c6wn93kvgnosgyr/TransparentPodsv1.2.2.zip "Dropbox"
+
+[MOD:1:source]: https://www.dropbox.com/s/xupteqt9xy01cdo/CommandPods.zip?dl=0/ "Dropbox"
+[MOD:1:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/116664-*/ "KSP Forum"
+[MOD:1:download]: http://www.mediafire.com/download/c6wn93kvgnosgyr/TransparentPodsv1.2.2.zip "Dropbox"
 
 <!--- license provenance -->
 [LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:0:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/json/license.json "CC BY-NC-SA 4.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
 
-[LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/json/license.json "CC BY-NC-SA 4.0"
+[LIC:1:url]: https://creativecommons.org/licenses/by/4.0/ "CC BY 4.0"
+[LIC:1:log]: https://licensebuttons.net/i/l/by/transparent/33/66/99/76x22.png "CC BY 4.0"
+[LIC:1:shd]: https://img.shields.io/badge/License-CC%20BY%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY 4.0"
 
-<!--- AVC -->
-[AVC:shd]: https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
-[AVCVLD:shd]: https://github.com/zer0Kerbal/TransparentPods/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
+[LIC:url]: https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/json/license.json "CC BY-SA 4.0"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
@@ -225,10 +235,15 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
+[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
+[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
+[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
+[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
+[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement-Next"
+[kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
+[mas]:  https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
+[rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
@@ -241,29 +256,43 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal/ "Buy Me A Snack"
 
 <!-- Localization -->
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "English"
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png/ "Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
+[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
+[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png "中文"
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png "Deutsch"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png "Español"
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png "Français"
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png "Italiano"
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png "日本語"
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/KO.png "한국어"
+[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png "Mexicano Español"
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png "Polski"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
+
+[curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
+[reddit]: https://www.reddit.com/user/zer0Kerbal
+[twitch]: https://www.twitch.tv/zer0kerbal
+[twitter]: https://twitter.com/zer0Kerbal
+[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
 [nli2work]:  https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/ "nli2work"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-[IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
+---
 
-<!-- footnotes -->
+#### Connect with me
+
+Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/TransparentPods/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+
+<!-- footnotes -->  
 [^1]: this isn't a mod. ;P
 [^2]: ***may*** work on other versions (YMMV)
 [^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
+
+[<img align="left" alt="kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | buy me a coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]

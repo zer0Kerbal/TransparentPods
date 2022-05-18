@@ -2,7 +2,6 @@
     "schedule": "weekly",
     "ignoredFiles": [
         "GameData/*",
-        "docs/LegalMumboJumbo/*",
         "GameData/TransparantPods/*",
         "source/*",
         "**/@thumbs/**",
