@@ -55,7 +55,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 * One of the stack nodes on Mono Pod will snap to, but not attach to other stack nodes, if the Mono Pod is not the root part.
 * Micro lander legs clip into ground if retract/deployed while landed. same appears to happen with the smallest stock lander leg.
 
-View full ![album](https://imgur.com/a/QjPLi) (previous incarnation)
+View full [album](https://imgur.com/a/QjPLi) (previous incarnation)
 
 ### Help Wanted
 
