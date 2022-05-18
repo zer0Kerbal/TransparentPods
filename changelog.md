@@ -31,6 +31,11 @@
 
 * [crashTolerance]
   * 50 is the correct amount
+* [TransparentPods.version]
+  * removed KSP_VERSION_MAX
+
+### Removed
+
 
 * Status
 * #4 - Fix version file URL property - contributed by HebaruSan
