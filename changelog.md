@@ -2,7 +2,7 @@
 
 | modName    | Transparent Pods (PODS)                                           |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                   |
+| license    | CC-BY-SA-4.0                                                      |
 | author     | nli2work and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/TransparentPods)        |
