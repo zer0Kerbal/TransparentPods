@@ -34,6 +34,17 @@
 * [TransparentPods.version]
   * removed KSP_VERSION_MAX
 
+added emmissive control
+updated config
+linted
+added [DRAG_CUBE]
+[cycloPod.cfg]
+added Module Inventory
+[monoPod.cfg]
+added Module Inventory
+[panoPod.cfg]
+added Module Cargo
+
 ### Removed
 
 ### Asset Updates
