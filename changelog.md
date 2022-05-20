@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/2212)                                 |
 | ckan       | TransparentPods                                                   |
 
-## Version 1.2.3.4 - `<>`
+## Version 1.2.3.4 - `<Klaws II>`
 
 * 17 May 2022
 * for KSP 1.12.3
@@ -20,6 +20,7 @@
 * [tags]
 * stock
   * //#autoLOC_500863 = a.r.m arm asteroid capture cla* ect dock fasten grab join klaw nasa
+  * and many more using KSP's stock library
 * [scale] = 1
 
 * [JSIAdvTransparentPods.cfg]
@@ -70,7 +71,7 @@
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts/
-* updates #33 - Asset Updates
+* closes #33 - Asset Updates
 
 ### Part Localization
 
@@ -87,6 +88,9 @@
   * [microKlaw.cfg]
   * [cycloPod.cfg]
   * [panoPod.cfg]
+* closes #16 - American English <us-en.cfg>
+* updates #15 - Localization - Master
+* closes #32 - Part Localization
 
 ### docs/
 
@@ -101,11 +105,20 @@
   * [Notices.md] v1.0.1.0
   * [PartInvoice.md] v1.1.3.1
   * [_config.yml]
+* closes #6 - Needs a wiki
 * closes #35 - docs/
 
-* Status
-* #4 - Fix version file URL property - contributed by HebaruSan
-* #10 - [ImgBot] Optimize images - contributed by imgbot[bot]
+
+### Status
+
+* Issues
+  * closes #4 - Fix version file URL property - contributed by HebaruSan
+  * closes #5 - Localization
+  * closes #10 - [ImgBot] Optimize images - contributed by imgbot[bot]
+  * closes #11 - Transparent Pods (TCP) 1.2.3.4-release `<Klaws II>`
+  * closes #12 - 1.2.3.4 Verify Legal Mumbo Jumbo
+  * closes #13 - 1.2.3.4 Update Documentation
+  * closes #14 - 1.2.3.4 Update Social Media
 
 ---
 
