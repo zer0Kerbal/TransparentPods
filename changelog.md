@@ -26,6 +26,8 @@
   * moved from part.cfg's
 * [RasterPropMonitor.cfg]
   * moved from part.cfg's
+* [Firespitter.cfg]
+  * moved from part.cfg's
 
 ### Updated
 
@@ -99,6 +101,7 @@
   * [Notices.md] v1.0.1.0
   * [PartInvoice.md] v1.1.3.1
   * [_config.yml]
+* closes #35 - docs/
 
 * Status
 * #4 - Fix version file URL property - contributed by HebaruSan
