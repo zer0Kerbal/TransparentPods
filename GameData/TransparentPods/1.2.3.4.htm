@@ -23,8 +23,8 @@ href="https://zer0kerbal.github.io/TransparentPods/"
 title="GitHub Pages"><img
 src="https://img.shields.io/badge/GitHub-Pages-white?style=plastic&amp;labelColor=9cf&amp;logoColor=181717&amp;logo=github/"
 title="GitHub IO" alt="Pages" /></a></p>
-<h1 id="version-1234-release----edition">Version 1.2.3.4-release -
-<EDITION> edition</h1>
+<h1 id="version-1234-release---klaws-ii-edition">Version 1.2.3.4-release
+- <code>&lt;Klaws II&gt;</code> edition</h1>
 <ul>
 <li>17 May 2022</li>
 <li>Release for Kerbal Space Program [KSP 1.12.x]</li>
@@ -33,6 +33,153 @@ title="GitHub IO" alt="Pages" /></a></p>
 <b>DO A CLEAN INSTALL:</br> DELETE EXISTING INSTALLATION THEN RE-INSTALL</b></h4><p>Download from <a href="https://www.curseforge.com/kerbal/ksp-mods/TransparentPods/files">CurseForge</a></p></div>
 
 <h2 id="changes">Changes</h2>
+<h3 id="notices">NOTICES</h3>
+<ul>
+<li>This is the last version that will contain [ghost.cfg]</li>
+<li>Next version will only contain the Command Pods</li>
+<li>Other parts moving into their own parts mod</li>
+</ul>
+<h3 id="added">Added</h3>
+<ul>
+<li><p>[tags]</p></li>
+<li><p>stock</p>
+<ul>
+<li>//#autoLOC_500863 = a.r.m arm asteroid capture cla* ect dock fasten
+grab join klaw nasa</li>
+<li>and many more using KSP's stock library</li>
+</ul></li>
+<li><p>[scale] = 1</p></li>
+<li><p>[JSIAdvTransparentPods.cfg]</p>
+<ul>
+<li>moved from part.cfg's</li>
+</ul></li>
+<li><p>[RasterPropMonitor.cfg]</p>
+<ul>
+<li>moved from part.cfg's</li>
+</ul></li>
+<li><p>[Firespitter.cfg]</p>
+<ul>
+<li>moved from part.cfg's</li>
+</ul></li>
+</ul>
+<h3 id="updated">Updated</h3>
+<ul>
+<li>[crashTolerance]
+<ul>
+<li>50 is the correct amount</li>
+</ul></li>
+<li>[TransparentPods.version]
+<ul>
+<li>removed KSP_VERSION_MAX</li>
+</ul></li>
+</ul>
+<h3 id="parts">Parts</h3>
+<ul>
+<li>updated config</li>
+<li>linted</li>
+<li>Added
+<ul>
+<li>[DRAG_CUBE]</li>
+<li>[ModuleColorChanger]</li>
+<li>[ModuleConductionMultiplier]</li>
+<li>[ModuleCargoPart]
+<ul>
+<li>[cycloPod.cfg]</li>
+<li>[monoPod.cfg]</li>
+<li>[handrail1.cfg]</li>
+<li>[handrail2.cfg]</li>
+<li>[microKlaw.cfg]</li>
+<li>[microLegRadial.cfg]</li>
+<li>[microLegVentral.cfg]</li>
+</ul></li>
+<li>[ModuleInventoryPart]
+<ul>
+<li>[panoPod.cfg]</li>
+</ul></li>
+</ul></li>
+</ul>
+<h3 id="asset-updates">Asset Updates</h3>
+<ul>
+<li>create Assets/ folder</li>
+<li>convert from mesh to MODEL</li>
+<li>rename
+<ul>
+<li>models to unique names</li>
+<li>textures to unique names</li>
+</ul></li>
+<li>update
+<ul>
+<li>model pointers (.png et al to .dds)</li>
+<li>model texture pointers to new names</li>
+</ul></li>
+<li>relocate assets to Assets/</li>
+<li>eliminate
+<ul>
+<li>duplicate textures</li>
+<li>duplicate models</li>
+</ul></li>
+<li>relocate part.cfg to Parts/</li>
+<li>closes #33 - Asset Updates</li>
+</ul>
+<h3 id="part-localization">Part Localization</h3>
+<ul>
+<li>create
+<ul>
+<li>agency</li>
+<li>64x40 truecolor</li>
+</ul></li>
+<li>run localizer</li>
+<li>Parts to localize
+<ul>
+<li>[monoPod.cfg]</li>
+<li>[microLegVentral.cfg]</li>
+<li>[handrail1.cfg]</li>
+<li>[handrail2.cfg]</li>
+<li>[microLegRadial.cfg]</li>
+<li>[microKlaw.cfg]</li>
+<li>[cycloPod.cfg]</li>
+<li>[panoPod.cfg]</li>
+</ul></li>
+<li>closes #16 - American English &lt;us-en.cfg&gt;</li>
+<li>updates #15 - Localization - Master</li>
+<li>closes #32 - Part Localization</li>
+</ul>
+<h3 id="docs">docs/</h3>
+<ul>
+<li>Update
+<ul>
+<li>[Attribution.md] v1.0.6.0</li>
+<li>[ManualInstallation.md] v1.1.7.0</li>
+</ul></li>
+<li>Add
+<ul>
+<li>[404-petunia.md]</li>
+<li>[LegalMumboJumbo.md] v1.0.5.0</li>
+<li>[Localizations.md] v1.1.3.1</li>
+<li>[Marketing.md] v1.0.1.0</li>
+<li>[Notices.md] v1.0.1.0</li>
+<li>[PartInvoice.md] v1.1.3.1</li>
+<li>[_config.yml]</li>
+</ul></li>
+<li>closes #6 - Needs a wiki</li>
+<li>closes #35 - docs/</li>
+</ul>
+<h3 id="status">Status</h3>
+<ul>
+<li>Issues
+<ul>
+<li>closes #4 - Fix version file URL property - contributed by
+HebaruSan</li>
+<li>closes #5 - Localization</li>
+<li>closes #10 - [ImgBot] Optimize images - contributed by
+imgbot[bot]</li>
+<li>closes #11 - Transparent Pods (TCP) 1.2.3.4-release
+<code>&lt;Klaws II&gt;</code></li>
+<li>closes #12 - 1.2.3.4 Verify Legal Mumbo Jumbo</li>
+<li>closes #13 - 1.2.3.4 Update Documentation</li>
+<li>closes #14 - 1.2.3.4 Update Social Media</li>
+</ul></li>
+</ul>
 <hr />
 <h2 id="see-more">See More</h2>
 <ul>
