@@ -34,18 +34,24 @@
 * [TransparentPods.version]
   * removed KSP_VERSION_MAX
 
-added emmissive control
-updated config
-linted
-added [DRAG_CUBE]
-[cycloPod.cfg]
-added Module Inventory
-[monoPod.cfg]
-added Module Inventory
-[panoPod.cfg]
-added Module Cargo
+### Parts
 
-### Removed
+* updated config
+* linted
+* Added
+  * [DRAG_CUBE]
+  * [ModuleColorChanger]
+  * [ModuleConductionMultiplier]
+  * [ModuleCargoPart]
+    * [cycloPod.cfg]
+    * [monoPod.cfg]
+    * [handrail1.cfg]
+    * [handrail2.cfg]
+    * [microKlaw.cfg]
+    * [microLegRadial.cfg]
+    * [microLegVentral.cfg]
+  * [ModuleInventoryPart]
+    * [panoPod.cfg]
 
 ### Asset Updates
 
@@ -63,6 +69,22 @@ added Module Cargo
   * duplicate models
 * relocate part.cfg to Parts/
 * updates #33 - Asset Updates
+
+### Part Localization
+
+* create
+  * agency
+  * 64x40 truecolor
+* run localizer
+* Parts to localize
+  * [monoPod.cfg]
+  * [microLegVentral.cfg]
+  * [handrail1.cfg]
+  * [handrail2.cfg]
+  * [microLegRadial.cfg]
+  * [microKlaw.cfg]
+  * [cycloPod.cfg]
+  * [panoPod.cfg]
 
 ### docs/
 
