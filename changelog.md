@@ -15,6 +15,12 @@
 * 17 May 2022
 * for KSP 1.12.3
 
+### NOTICES
+
+* This is the last version that will contain [ghost.cfg]
+* Next version will only contain the Command Pods
+* Other parts moving into their own parts mod
+
 ### Added
 
 * [tags]
@@ -107,7 +113,6 @@
   * [_config.yml]
 * closes #6 - Needs a wiki
 * closes #35 - docs/
-
 
 ### Status
 
