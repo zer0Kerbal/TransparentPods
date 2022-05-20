@@ -23,32 +23,32 @@ This add-on adds eight (8) parts
 
 ---
 
-* cycloPod
-* monoPod
-* panoPod
+* Mono Pressurized Command Chair [cycloPod]
+  * crew of one
+  * bulkheadProfiles = size00,size0
+* Cyclops Command Pod [monoPod]
+  * crew of one
+  * bulkheadProfiles = size0,size1
+* Panopticon Command Pod [panoPod]
+  * crew of up to three
+  * bulkheadProfiles = size1,size2
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/cycloPod_icon.png" alt="cycloPod" width="25%" height="25%" />
-  
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/monoPod_icon.png" alt="monoPod" width="25%" height="25%" />
-  
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/panoPode_icon.png" alt="panoPod" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/cycloPod_icon.png" alt="cycloPod" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/monoPod_icon.png" alt="monoPod" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/panoPod_icon.png" alt="panoPod" width="25%" height="25%" />
 
-* handrail1
-* handrail2
+* Hand Rail - Long [handrail1]
+* Hand Rail - Short [handrail2]
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/handrail1_icon.png" alt="handrail1" width="25%" height="25%" />
-  
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/handrail2_icon.png" alt="handrail2" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/handrail1_icon.png" alt="handrail1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/handrail2_icon.png" alt="handrail2" width="25%" height="25%" />
 
-* microKlaw
+* MicroKlaw [microKlaw]
+  * bulkheadProfiles = size0, srf
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/microKlaw_icon.png" alt="microKlaw" width="25%" height="25%" />
 
-* microLegRadial
-* microLegVentral
+* Radial Micro Leg [microLegRadial]
+* Ventral Micro Leg [microLegVentral]
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/microLegRadial_icon.png" alt="microLegRadial" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/microLegVentral_icon.png" alt="microLegVentral" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/microLegRadial_icon.png" alt="microLegRadial" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentPods/master/GameData/TransparentPods/Parts/%40thumbs/microLegVentral_icon.png" alt="microLegVentral" width="25%" height="25%" />
 
 ---
 
