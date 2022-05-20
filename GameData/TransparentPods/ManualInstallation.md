@@ -17,7 +17,7 @@ updated: 18 Apr 2022 -->
 
 [Home](./index.md)
 
-<BLURB>
+Adds eight (8) parts. Transparent Command Pods and other parts by nli2work for Kerbal Space Program.
 
 ## Installation Instructions
 
