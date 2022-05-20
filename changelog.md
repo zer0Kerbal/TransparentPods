@@ -72,7 +72,9 @@
 
 ### Part Localization
 
-* create agency
+* create
+  * agency
+  * 64x40 truecolor
 * run localizer
 * Parts to localize
   * [monoPod.cfg]
