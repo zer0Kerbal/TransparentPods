@@ -31,13 +31,13 @@ updated: 02 May 2022
 ### Flag
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a><li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a></li>
 </ul>
 
 ### Agency
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a><li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
 </ul>
 
 ### Special Thanks
@@ -59,7 +59,7 @@ updated: 02 May 2022
 #### SoundFX
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a><li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a></li>
 </ul>
 
 ### Testing and Support
