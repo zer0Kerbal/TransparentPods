@@ -2,12 +2,11 @@
 permalink: /Attributions.html
 title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-Attributions.md v1.0.6.0
+Attributions.md v1.0.7.0
 Transparent Pods (PODS)
 created: 01 Feb 2022
 updated: 02 May 2022
@@ -15,7 +14,9 @@ updated: 02 May 2022
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
+
 # Transparent Pods (PODS)
+
 [Home](./index.md)
 
 ## Attribution
@@ -30,13 +31,13 @@ updated: 02 May 2022
 ### Flag
 
 <ul>
-  <li><a href="[https://forum.kerbalspaceprogram.com/index.php?/profile/57146-*/ ](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a>
 </ul>
 
 ### Agency
 
 <ul>
-  <li><a href="[https://forum.kerbalspaceprogram.com/index.php?/profile/57146-*/ ](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
 </ul>
 
 ### Special Thanks
@@ -49,17 +50,17 @@ updated: 02 May 2022
 
 ### Translations
 
-* ![Русский][RU] Russian (Русский) - courtesy of [degradka][degradka]
+* ![English][EN] English - courtesy of [zer0Kerbal][zer0Kerbal]
 
 *Additions and corrections welcome!*
 
 ### Art Asset(s)
 
-* [Complex Theory icon](https://www.deviantart.com/nzmacaddict/art/Complex-Theory-icon-517716258)
-  * By: [nzmacaddict](https://www.deviantart.com/nzmacaddict)
-  * Creative Commons Attribution 3.0 License
+#### SoundFX
 
- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f3bfce-83b1-4e12-8af0-f3d3a31e20a0/d8k8gf6-82083869-14d4-4d33-9719-7908c11c73b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwZjNiZmNlLTgzYjEtNGUxMi04YWYwLWYzZDNhMzFlMjBhMFwvZDhrOGdmNi04MjA4Mzg2OS0xNGQ0LTRkMzMtOTcxOS03OTA4YzExYzczYjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wCT9rr9rf8WzMl-LmeJqKMDceRX56DmGixTqESEuQx4" alt="Complex Theory icon" style="zoom:5%;" />
+<ul>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a>
+</ul>
 
 ### Testing and Support
 
@@ -68,27 +69,30 @@ updated: 02 May 2022
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img border="0" alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
 </ul>
 
-[TPOD]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/ "Transparent Pods"
+[POD]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/ "Transparent Pods"
 
 [nli2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/ "nli2work"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-<!-- [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语" -->
+<!-- Localization -->
+[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
+[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"  
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png "中文"  
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png "Deutsch"  
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png "Español"  
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png "Français"  
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png "Italiano"  
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png "日本語"  
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/KO.png "한국어"  
+[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png "Mexicano Español"  
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"  
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png "Polski"  
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"  
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
